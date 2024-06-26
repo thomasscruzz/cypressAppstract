@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://giep-dev-44e61.web.app/login",
+    "integrationFolder": "tests",
+    "supportFile": "cypress/support/e2e.js"  ,
+    "pluginsFile": "node_modules/cypress-plugin-tab/src/index.js"
+}
+  

@@ -1,0 +1,14 @@
+{
+    "username": "thomas@appstractweb.com",
+    "nombre" : "jorge",
+    "apellido": "cruz",
+    "password": "123456",
+    "cantHectareas": 123,
+    "cantCabezas":12,
+    "porcentaje":100,
+    "observaciones":"observaciones",
+    "raza":"raza",
+    "procedencia":"procedencia"
+    
+  }
+  

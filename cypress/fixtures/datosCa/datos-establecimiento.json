@@ -1,0 +1,16 @@
+{
+    "email": "thomas@appstractweb.com",
+    "nombre" : "jorge",
+    "apellido": "cruz",
+    "password": "123456",
+    "renspa" : "renspa",
+    "establecimiento": "establecimiento",
+    "calle":"calle",
+    "entreCalle":"entre calle",
+    "numero":123,
+    "telefono":9876543,
+    "celular":123456,
+    "aniosNegocio":13,
+    "observaciones":"observaciones"
+}
+  
